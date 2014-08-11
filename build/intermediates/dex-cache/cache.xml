@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/cobalt/AndroidStudioProjects/OpenCVDemo/app/build/intermediates/pre-dexed/debug/classes-057bcdfa4017b9c39769955ff5f994e6f4d089d0.jar"
+        jar="/home/cobalt/AndroidStudioProjects/OpenCVDemo/app/build/intermediates/exploded-aar/OpenCVDemo.libraries/opencv/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="836cda8992558665d1b0076d5e4249ef0f4444bd"/>
+    <item
+        dex="/home/cobalt/AndroidStudioProjects/OpenCVPuzzle/app/build/intermediates/pre-dexed/debug/classes-493378eb600b5aa53a15e823d8c512616982cc7f.jar"
+        jar="/home/cobalt/AndroidStudioProjects/OpenCVPuzzle/app/build/intermediates/exploded-aar/OpenCVPuzzle.libraries/opencv/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6bbc1f03e5716dbf45eec86ff298fb349bbbb3e2"/>
+
+</pre-dex-items>
